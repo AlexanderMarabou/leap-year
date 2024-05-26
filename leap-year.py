@@ -4,7 +4,7 @@ year = int(input("Which year do you want to check? "))
 
 # Write your code below this line 👇
 
-# Moja wersja
+# My solution
 if year % 4 != 0:
     print("That's not a leap year.")
 else:
@@ -16,7 +16,7 @@ else:
         print("That's not a leap year.")
 ###############################################
 
-# Jak powinno byc
+# 100 days of code solution
 # if year % 4 == 0:
 #     if year % 100 == 0:
 #         if year % 400 == 0:
